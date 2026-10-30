@@ -833,6 +833,9 @@ Vue开发安全应用程序的架构和代码。我的第一个要求是
 
 
 ## AI绘画提示词
+- [PromptImage](https://promptimage.cloud)：Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design)：Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev)：Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 肌肉男,戴眼镜,AI绘画不少于10个提示词,用逗号分开
 
 ## 教你背单词
